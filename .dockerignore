@@ -1,0 +1,7 @@
+**
+**/*
+
+!Dockerfile
+!setup.py
+!instagram_scraper/*.py
+!docker_entrypoint.sh
